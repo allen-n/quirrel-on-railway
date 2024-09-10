@@ -1,5 +1,7 @@
 # Quirrel on Railway
 
+Original repository: [quirrel-dev/quirrel-on-railway](https://github.com/quirrel-dev/quirrel-on-railway)
+
 To deploy your own Quirrel server to Railway, click this button:
 
 [![Deploy to Railway](https://railway.app/button.svg)](https://railway.app/new/template/quirrel)
